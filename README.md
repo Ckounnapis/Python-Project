@@ -1,39 +1,90 @@
-# Python-Project 1:
-  I have created a small board game that allows 2 player to play it.
-## Features
+# 🎮 Python Games Collection
 
-- player vs player action
+This repository contains two simple Python-based games developed for practice and learning purposes.
 
-## Tech Stack
+---
 
-- Language: python
+# 🧩 Project 1 – Mancala (Board Game)
 
-### Prerequisites
-You can run it on terminal by following the steps bellow:
--  Open the terminal on the folder that you saved the game
--  Run the command : python3 mankala.py 
--  Run the command : py mankala.py
+A simple **2-player board game** implementation of Mancala that runs in the terminal.
 
-You have to also have install the following:
-- python code language
+## ✨ Features
 
+* Player vs Player gameplay
+* Turn-based interaction
+* Terminal-based interface
 
-# Python-Project 2:
-  Its an implemented version of the well-known game "snake"
-## Features
+## 🛠️ Tech Stack
 
-- player vs player action
-- player vs the computer
+* Language: **Python**
 
-## Tech Stack
+## ▶️ How to Run
 
-- Language: python
+1. Open terminal in the project folder
+2. Run one of the following commands:
 
-### Prerequisites
-You can run it on terminal by following the steps bellow:
--  Open the terminal on the folder that you saved the game
--  Run the command : python3 fidaki.py 
--  Run the command : py fidaki.py
+```bash
+python3 mankala.py
+```
 
-You have to also have install the following:
-- python code language
+or
+
+```bash
+py mankala.py
+```
+
+## 📌 Requirements
+
+* Python installed on your system
+
+---
+
+# 🐍 Project 2 – Snake Game
+
+An implementation of the classic **Snake game**, playable in the terminal.
+
+## ✨ Features
+
+* Player vs Player mode
+* Player vs Computer mode
+* Classic snake mechanics
+
+## 🛠️ Tech Stack
+
+* Language: **Python**
+
+## ▶️ How to Run
+
+1. Open terminal in the project folder
+2. Run one of the following commands:
+
+```bash
+python3 fidaki.py
+```
+
+or
+
+```bash
+py fidaki.py
+```
+
+## 📌 Requirements
+
+* Python installed on your system
+
+---
+
+## 🚀 Notes
+
+* These projects are designed for **learning and practice**
+* Runs entirely in the **terminal (CLI-based games)**
+* Easy to modify and extend
+
+---
+
+## 👤 Author
+
+* Charalampos Kounnapis
+* GitHub: https://github.com/Ckounnapis
+
+---
