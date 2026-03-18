@@ -1,28 +1,19 @@
-# Natural Disasters and Analytics App
-
-Application that loads  climate-related disaster data per country & disaster type, 
-during a period that passed with OpenWeather API.
-
+# Python projects
+-Python-Project 1:
+  I have created a small board game that allows 2 player to play it.
 ## Features
 
-- Load CSV/TSV natural-disaster measurements
-- Descriptive Statistics
-- Simple Linear Regression
-- Table and Chart views using XChart
+- player vs player action
 
 ## Tech Stack
 
-- Language: java
-- Database: CSV/TSV file.
-- Other tools: XChart,Apache Commons Math 3.6.1.
+- Language: python
 
 ### Prerequisites
-You can run it on Eclipse by following the steps bellow:
-- File → Import → Existing Projects into Workspace → pick project file
-- jars are in Build Path (if not Add from lib/ if needed)
-- Run app.gui.AppStarter/ Right click → Run As → Java Application.
+You can run it on terminal by following the steps bellow:
+-  Open the terminal on the folder that you saved the game
+-  Run the command : python3 mankala.py 
+-  Run the command : py mankala.py
 
 You have to also have install the following:
-- Node.js >= 18
-- Eclipse
-- CSV or TSV file 
+- python code language
